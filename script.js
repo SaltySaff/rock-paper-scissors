@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <script src="script.js"></script>
-    <title>Rock, Paper, Scissors</title>
-    <meta charset="UTF-8"/>
-    
-</head>
-<body>
-    <script>
             let winCounter = 0;
             let lossCounter = 0;
             let drawCounter = 0;
@@ -156,28 +146,3 @@
         
         game();
         finalScore();
-
-
-        
-
-    
-   
- 
-    
-        
-
-
-
-
-
-
-
-
-
-
-
-
-    </script>
-
-</body>
-</html>

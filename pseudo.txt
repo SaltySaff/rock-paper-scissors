@@ -1,9 +1,0 @@
-Prompt users to input either rock, paper, or scissors
-If the user enters anything else, return an error
-
-Generate the computer's choice by generating a random number between 1 and 3. Make each number
-equivalent to each available choice.
-
-Compare the player's choice with the computer's choice and calculate who won/lost.
-
-Announce the result to the user.
