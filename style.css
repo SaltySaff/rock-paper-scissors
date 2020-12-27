@@ -1,0 +1,90 @@
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    margin-bottom: 10px;
+    
+    
+}
+
+.container {
+    width: 750px;
+    height: auto;
+    margin: auto
+}
+
+#title {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    margin-top: 3%
+}
+
+.content {
+    border-style: solid;
+    height: 600px;
+}
+
+#playerContainer {
+    float: left;
+    margin-left: 50px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#computerContainer {
+    float: right;
+    height: auto;
+    margin-right: 50px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#resultContainer {
+    margin-top: 23%;
+    text-align: center;
+}
+
+#finalResultContainer {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#resultsContainer {
+    display: flex;
+    margin-top:25%;
+    margin-bottom: 10%;
+}
+#winContainer {
+    display: flex;
+    margin-left: 20%;
+}
+
+#drawContainer {
+    display: flex;
+    margin-left: 20%;
+}
+
+#loseContainer {
+    display: flex;
+    margin-left: 20%;
+}
+
+#winCounterTxt {
+    display: flex;
+    margin-left: 15%;
+}
+
+#drawCounterTxt {
+    display: flex;
+    margin-left: 15%;
+}
+
+#loseCounterTxt {
+    display: flex;
+    margin-left: 15%;
+}
+
+
+

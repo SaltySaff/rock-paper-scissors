@@ -1,3 +1,4 @@
-This project will consist of a simple Rock, Paper, Scissors game. It will be created using mainly JavaScript, though a bit of HTML will be necessary as well.
+This is an update to a previously created project, namely one where I created a simple
+command log based Rock, Paper, Scissors game. Whereas in that game, the game was played soloely through the command log, with this update, the game can be played via a rudimentary UI.
 
-While the game at first will be rudimentary, it will be iterated on at a later date, with GUI being added at that time. For the time being however, the game will be played through the console. 
+In working on this project I have learned a lot, and in particular, about DOM manipulation.
